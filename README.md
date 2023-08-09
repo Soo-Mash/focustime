@@ -14,3 +14,5 @@ Snack is Open Source. You can find the code on the [GitHub repo](https://github.
 # TEST #2 Testing if commit comes from correct git account (SooMash, and not simon-at-the-delta)
 
 # TEST #3 Testing if commit comes from correct git account (SooMash, and not simon-at-the-delta)
+
+# TEST #4 Testing if commit comes from correct git account (SooMash, and not simon-at-the-delta)
