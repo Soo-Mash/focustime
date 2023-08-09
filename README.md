@@ -10,4 +10,6 @@ If you're having problems, you can tweet to us [@expo](https://twitter.com/expo)
 
 Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack-web).
 
-# Testing if commit comes from correct git account (SooMash, and not simon-at-the-delta)
+# TEST #1 Testing if commit comes from correct git account (SooMash, and not simon-at-the-delta)
+# TEST #2 Testing if commit comes from correct git account (SooMash, and not simon-at-the-delta)
+
